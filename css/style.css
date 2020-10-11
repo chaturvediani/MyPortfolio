@@ -1,0 +1,118 @@
+a {
+    color: blue;
+    text-decoration: none; 
+  }
+
+  a:hover {
+    color: red;
+    text-decoration: none; 
+  }
+
+.navbar-dark {
+     background-color: #fd0d0d;
+}
+
+
+  body {
+    background: linear-gradient(to left, rgb(7, 224, 206), rgb(181, 228, 218) 30%, white 70%, white);
+   }
+   .jumbotron{
+     background-color: #13d9eb;
+     font: bolder;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .det{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(18, 3, 20);
+   }
+   .sk{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       color: #092f31;
+   }
+   .exp{
+     font-style: unset;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align:center;
+   }
+   .big{
+    float: left; 
+    width: 500px; 
+    border: 3px solid #73AD21; 
+    padding: 100px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+   }
+   .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align:left;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-linkedin {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+   img{
+     border: 3px solid rgb(111, 123, 158);
+   }
+  
+   .cred{
+    color: #617c85;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left:50%;
+    
+   }
+
+  .main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(163, 42, 42);
+    margin-left: 40%;
+    font-size: 150%;
+   }
+.lis{
+     font-family: 'Times New Roman', Times, serif;
+     color:rgb(34, 4, 4);
+     text-align:center;
+     font-size: 200%;
+}
+.pro{
+color: rgb(27, 39, 2);
+font-family: fantasy;
+font-size:300%;
+text-align: center;
+}
+  ul {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+  }
+  * {box-sizing:border-box}
+
+
+.container {
+width:10%;
+
+width: 80%;
+background-color: #ddd; 
+}
+
+.skills {
+text-align: right; 
+padding-top: 10px; 
+padding-bottom: 10px; 
+color: white; 
+}
+
+.python {width: 90%; background-color: #4CAF50;} 
+.java {width: 80%; background-color: #2196F3;} 
+.html {width: 65%; background-color: #f44336;} 
+.django {width: 60%; background-color: #808080;} 
